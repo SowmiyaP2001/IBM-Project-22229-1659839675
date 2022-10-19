@@ -34,7 +34,7 @@ else
 {
 digitalWrite(piezo , LOW );
 }
-Serial.print(" in DegreeC = " );
+Serial.print(" in Degree'C = " );
 Serial.print(temp);
 Serial.print(" ");
 Serial.print("GaaSensor = ");
